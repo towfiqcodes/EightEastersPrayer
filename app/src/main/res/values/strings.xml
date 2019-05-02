@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Eight Easters Prayer</string>
+
+
+    // Resurrection Prayer
+    <string name="ressurrection">Thank you that you make all things new.Thank you for the victory and power in your Name. Thank you that you hold the keys over death, that by your might, Jesus was raised from the grave,paving the way for us to have new life with you. Thank you that you had plan,that you made a way.</string>
+
+
+    //What is Easter?
+    <string name="easter1">Easter is the celebration of the resurrection of Jesus from the tomb on the third day after his crucifixion. Easter is the fulfilled prophecy of the Messiah who would be persecuted, die for our sins, and rise on the third day. (Isaiah 53). Remembering the resurrection of Jesus is a way to renew daily hope that we have victory over sin. According to the New Testament, Easter is three days after the death of Jesus on the cross.</string>
+    <string name="easter2">Easter follows a period of fasting called Lent, in which many churches set aside time for repentance and remembrance. Lent begins on Ash Wednesday and ends on Good Friday, the day of Jesus\' crucifixion. The 40 day period was established by Pope Gregory 1 using the 40 day pattern of Israel, Moses, Elijah and Jesus\' time in the wilderness.</string>
+    <string name="easter3">The week leading up to Easter is called The Holy Week, or "Passion Week", and includes Palm Sunday (the day Jesus entered Jerusalem and was celebrated), Maundy Thursday (the "Last Supper" where Jesus met with his disciples to observe Passover), and Good Friday (when Jesus would be crucified on the cross). </string>
+
+    //Easter Sunday Prayer
+    <string name="sunday">You loved this world so much,\n
+               That you gave your one and only Son,\n
+               That we might be called your children too.\n
+                Lord, help us to live in the gladness and grace\n
+                 Of Easter Sunday, everyday.\n
+              Let us have hearts of thankfulness\n
+               For your sacrifice.\n
+               Let us have eyes that look upon\n
+                       Your grace and rejoice in our salvation.</string>
+
+
+    //Good Friday Prayer
+    <string name="friday1">Jesus cried out to you on the cross,
+        “Why have you forsaken me?”
+        You seemed so far from his cry
+        And from his distress.
+        Those who stood at the foot of the cross
+        Wondered where you were,
+        As they saw Jesus mocked and shamed and killed.
+        Where were you then?</string>
+    <string name="friday2">We wait, on Friday, for the resurrection of Sunday\n
+                           And sometimes our lives seem a succession of Fridays\n
+                           And we cannot see what is “Good.”\n
+                           Teach us to call your name\n
+                           As Jesus did.\n
+                           Make us to trust in you like little children.\n
+        In Jesus’ name, Amen.?</string>
+
+
+    //Prayer for Lent
+    <string name="lent1">Thank you for the gift of this season. Thank you for knowing our hearts and our need for rhythms in our lives, and for drawing us into a deeper communion with you throughout the coming 40 days.</string>
+    <string name="lent2">it can be disheartening to read on Ash Wednesday that all come from dust, and to dust all return (Ecclesiastes 3:20), yet we know that there is more to our stories. We know that you created man and woman from the dust at the very beginning of time (Genesis 2:7) and that you breathed life into them to transform them into living creatures. We know that you are in the business of resurrection-- your very Son went to the cross to show us that no death is final and that ultimate transformation comes through your gift of salvation.</string>
+
+
+    //Four Short Easter Prayers of Victory
+    <string name="victory1">Thank You for the miracle of life – abundant life here, and eternal life with You in Heaven. Help me celebrate that life every day as I seek You and follow Your plan for my life. Today, I say with the Apostle Paul, “Where, O death is your victory? Where, O death is your sting?”
+        In Jesus\’ name, Amen.\n
+        - Mary Southerland</string>
+    <string name="victory2">Lord Jesus Christ, I rejoice and rejoice continually in Your glorious and triumphant victory over death. For Your victory is my victory. Help me to live by it, in it, and for it. I am grateful to my depths\n - grateful forever. Amen.
+     - Selwyn Hughes</string>
+    <string name="victory3">death could not hold You. And because of You, the resurrection, we, too, can live. Thank You that the grave is only a journey into the presence of God. You have removed the sting of death and empowered this thing called life. Now I will live in Your presence forever. Amen.\n
+     - Rebecca Barlow Jordan</string>
+    <string name="victory4">may I realize afresh today what Your death and resurrection mean for me. Forgiveness … Freedom … and the ability to walk with You through this fallen world into eternity. May I always find my satisfaction in You and Your willingness to offer Yourself to me. In Jesus\' Name, Amen.\n
+    - Rachel Olsen</string>
+
+    //When is Easter?
+    <string name="when">The early Christians began remembering the Resurrection every Sunday following its occurrence. In A.D. 325, the Council of Nicaea set aside a special day just to celebrate the Resurrection. The problem with an official day was deciding whether the Resurrection should be celebrated on a weekday or always on a Sunday. Learn more about the reason behind Easter being celebrated on a Sunday and when easter is this year at our article </string>
+
+    //Prayer for an Easter Morning Sunrise Service
+    <string name="morning1">we lift our hearts to you. As the dawn breaks, may we carry the unity we share into every moment knowing that we are one with the risen Christ.</string>
+    <string name="morning2">we lift our eyes to you. As the sunrises, may this moment stay with us, reminding us to look for the beautiful colours of promise in your word.</string>
+    <string name="morning3"> we lift our prayers to you. As the dew air falls, may we breathe this morning in and know that like the earth, you sustain us, keep us and work within us always.</string>
+    <string name="morning4">And so, we lift our voices to you. We celebrate the greatest day in history, when Jesus rose from death, defeated darkness and bathed the world in stunning resurrection light. May we ever live to praise you!\n\n\n\n\nAmen\n\n******************************</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
